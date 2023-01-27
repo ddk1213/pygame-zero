@@ -10,24 +10,16 @@ This game's ultimate goal is to collect as many coins as possible. For the fox, 
 </br>
 
 ## Pictures
+<img width="60%" src="https://user-images.githubusercontent.com/123732973/215078126-303ad427-063b-4f2d-a0ef-cfabc397e1ff.png">
+<figcaption>
+  This picture above is a game screen you will play.
+</figcaption>
 
-<div style="text-align:center;">
-    <figure>
-            <img width="60%" src="https://user-images.githubusercontent.com/123732973/215078126-303ad427-063b-4f2d-a0ef-cfabc397e1ff.png">
-        <figcaption>
-            This picture above is a game screen you will play.
-        </figcaption>
-    </figure>
-</div>
+<img width="60%" src="https://user-images.githubusercontent.com/123732973/215078139-6ef1e847-2bce-413f-91ff-387d34a6ae3a.png">
+<figcaption>
+  This picture above is a endscreen which appears if the time is up.
+</figcaption>
 
-<div style="text-align:center;">
-    <figure>
-            <img width="60%" src="https://user-images.githubusercontent.com/123732973/215078139-6ef1e847-2bce-413f-91ff-387d34a6ae3a.png">
-        <figcaption>
-            This picture above is a endscreen which appears if the time is up.
-        </figcaption>
-    </figure>
-</div>
 
 </br>
 
