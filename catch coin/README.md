@@ -14,6 +14,7 @@ This game's ultimate goal is to collect as many coins as possible. For the fox, 
 <figcaption>
   This picture above is a game screen you will play.
 </figcaption>
+</br>
 
 <img width="60%" src="https://user-images.githubusercontent.com/123732973/215078139-6ef1e847-2bce-413f-91ff-387d34a6ae3a.png">
 <figcaption>
