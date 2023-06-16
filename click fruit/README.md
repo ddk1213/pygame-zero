@@ -1,12 +1,27 @@
 
 - [Game description](#game-description)
   - [Pictures](#pictures)
+- [Author](#author)
 
 # Game description
-This game's ultimate goal is to click an apple and the game will be ended if you click pineapple or orange. Moreover, you will be able to see what score you ultimately got after you die. If you click an apple, you will see the message "Good shot!" and if you missed the apple, you will see the message "You missed".
+Title: Click Fruit
+</br>
+This game's ultimate goal is to click an apple and the game will be ended if you click pineapple or orange. If you accidently click another fruit, "Game Over!" sign will appear with your score. You can press 'r' key to restart the game. Enjoy!
 </br>
 </br>
 
 ## Pictures
-<img src="https://user-images.githubusercontent.com/123732973/215075235-1373df79-ca7d-4386-8117-a977d0e9396f.png">
-<img src="https://user-images.githubusercontent.com/123732973/215074599-4d534d63-dc36-4c53-825b-c9f9f97d6b65.png">
+<img width="50%" src="https://user-images.githubusercontent.com/123732973/215075235-1373df79-ca7d-4386-8117-a977d0e9396f.png"> </br>
+[Starting image of the game]
+</br>
+</br>
+</br>
+
+<img width="50%" src="https://github.com/ddk1213/road-racer/assets/123732973/4326f531-b10b-4471-b4fe-37ae67ee639c"> </br>
+[Ending screen of the game]
+</br>
+</br>
+</br>
+
+# Author
+<h3><a href = "https://github.com/ddk1213" target="_blank">Dylan Kim</a></h3>
